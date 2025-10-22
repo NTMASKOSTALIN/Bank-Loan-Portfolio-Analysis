@@ -94,9 +94,12 @@ Added comparison sections for MTD vs PMTD metrics and Good vs Bad loan analysis.
 
 **Insights:**
 
-**Total Funded Amount:** $435.76M | Total Amount Received: $473.1M
-**Good Loans:** 86.2% of total applications → indicates strong repayment and customer reliability.
-**Average Interest Rate:** ~12% | Average DTI: ~13.3% — showing stable borrower income-to-debt profiles.
+**1. Total Funded Amount:** $435.76M | Total Amount Received: $473.1M.
+
+**2. Good Loans:** 86.2% of total applications → indicates strong repayment and customer reliability.
+
+**3. Average Interest Rate:** ~12% | Average DTI: ~13.3% — showing stable borrower income-to-debt profiles.
+
 Peak loan issuance occurred during mid-year months, suggesting seasonal borrowing behavior.
 Debt Consolidation and Home Improvement were top loan purposes, accounting for major revenue contribution.
 Regional analysis showed higher funding volumes in states with stronger credit performance.
