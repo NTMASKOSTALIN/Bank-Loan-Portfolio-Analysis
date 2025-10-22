@@ -86,11 +86,11 @@ Added comparison sections for MTD vs PMTD metrics and Good vs Bad loan analysis.
 
 **Dashboard:**
 
-<img width="1917" height="867" alt="Bank Loan Dashboard-1" src="https://github.com/NTMASKOSTALIN/Bank-Loan-Portfolio-Analysis/blob/main/Details%20(1).png" />
+<img width="1917" height="867" alt="Bank Loan Dashboard-1" src="https://github.com/NTMASKOSTALIN/Bank-Loan-Portfolio-Analysis/blob/main/Summary%20(2).png" />
 
 <img width="1917" height="867" alt="Bank Loan Dashboard-2" src="https://github.com/NTMASKOSTALIN/Bank-Loan-Portfolio-Analysis/blob/main/Overview%20(1).png" />
 
-<img width="1917" height="867" alt="Bank Loan Dashboard-3" src="https://github.com/NTMASKOSTALIN/Bank-Loan-Portfolio-Analysis/blob/main/Overview%20(1).png" />
+<img width="1917" height="867" alt="Bank Loan Dashboard-3" src="https://github.com/NTMASKOSTALIN/Bank-Loan-Portfolio-Analysis/blob/main/Details%20(1).png" />
 
 **Insights:**
 
